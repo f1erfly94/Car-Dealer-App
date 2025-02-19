@@ -9,7 +9,7 @@ A Next.js application that allows users to filter vehicles by make and model yea
 ✅ Optimized with React Suspense
 
 
-git clone https://github.com/your-username/car-dealer-app.git
+git clone https://github.com/f1erfly94/Car-Dealer-App
 cd car-dealer-app
 npm install
 npm run dev
