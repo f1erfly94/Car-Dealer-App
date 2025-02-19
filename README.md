@@ -44,6 +44,8 @@ Dynamic result page with vehicle models.
 ![Detailed view of selected vehicle](https://github.com/user-attachments/assets/8f78e843-ca5a-4d0b-87f2-971ec8314950)
 Detailed view of selected vehicle.
 
+![Result view] (https://raw.githubusercontent.com/f1erfly94/Car-Dealer-App/refs/heads/master/Screenshot%202025-02-19%20162924.png)
+
 ![Responsive mobile view](https://raw.githubusercontent.com/f1erfly94/Car-Dealer-App/refs/heads/master/Screenshot%202025-02-19%20163555.png)
 Responsive mobile view.
 
