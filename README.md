@@ -30,3 +30,9 @@ Next.js - React framework for building static and dynamic web applications.
 Tailwind CSS - A utility-first CSS framework for rapid UI development.
 React Suspense - For data fetching and rendering optimization.
 
+Here are some screenshots of the Car Dealer App:
+![Description](https://github.com/user-attachments/assets/72cce849-a829-4075-9374-7cedbc90bdc3)
+Home Page showing car make filters. ![Description](https://github.com/user-attachments/assets/1d1b6d52-594a-4b34-8975-5f4eb0b2568b)
+Filter cars by make and model year. ![Description](https://github.com/user-attachments/assets/f268bb5c-575f-4406-add6-51c34448191f)
+Dynamic result page with vehicle models. ![Description](https://github.com/user-attachments/assets/8f78e843-ca5a-4d0b-87f2-971ec8314950)
+Detailed view of selected vehicle. ![Description](https://github.com/user-attachments/assets/5b957890-afb6-4e25-832b-f4942a0fd78b)
